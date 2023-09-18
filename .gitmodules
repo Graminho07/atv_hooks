@@ -1,6 +1,0 @@
-[submodule "atv_hooks"]
-	path = atv_hooks
-	url = https://github.com/Graminho07/atv_hooks.git
-[submodule "useStateApp"]
-	path = useStateApp
-	url = https://github.com/Graminho07/atv_hooks.git
